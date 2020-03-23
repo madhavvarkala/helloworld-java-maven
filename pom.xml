@@ -40,8 +40,8 @@
   
 <distributionManagement>
     <repository>
-        <id>sym</id>
-        <name>release softx</name>
+        <id>nexus</id>
+        <name>gstech</name>
         <url>http://18.191.127.237:8081/repository/all/</url>
     </repository>
     <snapshotRepository>
